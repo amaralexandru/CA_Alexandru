@@ -128,7 +128,7 @@ i.fa.fa-lock {
 /*-- /header --*/
 /*-- banner --*/
 .banner {
-    background: url(../images/3.jpg)no-repeat;
+    background: url(../images/index-slide1.jpeg)no-repeat;
     background-size: cover;
     -webkit-background-size: cover;
     -o-background-size: cover;
@@ -232,3 +232,103 @@ i.fa.fa-columns {
     color: #1f8dd6;
 }
 /*-- /banner --*/
+
+/*-- rupes --*/
+.rup-left {
+    float: left;
+    width: 24%;
+}
+.rup-rgt {
+    float: left;
+    width: 76%;
+}
+.rupes {
+    padding: 5em 0;
+	border-top: 1px solid rgba(236, 236, 236, 0.9);
+    border-bottom: 1px solid rgba(236, 236, 236, 0.9);
+}
+i.fa.fa-usd{
+    font-size: 5em;
+    color: #1f8dd6;
+}
+i.fa.fa-h-square{
+    font-size: 5em;
+    color: #1f8dd6;
+}
+i.fa.fa-mobile  {
+    font-size:5em;
+    color: #1f8dd6;
+}
+.rupes h3 {
+    font-size: 20px;
+    color: #34ad00;
+	 font-weight: 700;
+}
+.rupes h4 {
+    font-size: 18px;
+    margin: 8px 0;
+    font-weight: 700;
+}
+.rupes h4 a{
+    color: #000000;
+}
+.rupes h4 a:hover{
+    color:#34ad00;
+}
+.rupes p{
+    font-size: 15px;
+    line-height: 1.6em;
+    font-weight: 300;
+	color:#999;
+}
+/*-- /rupes --*/
+/*-- track --*/
+a.learn{
+    padding: 6px 25px!important;
+    font-size: 16px;
+    text-indent: 0;
+    padding: 6px 20px;
+    color: #fff;
+    background-color: #34ad00;
+    border: 0;
+    border-radius: 2px;
+    -webkit-transition: all .2s;
+    -moz-transition: all .2s;
+    transition: all .2s;
+    display: inline-block;
+}
+a.learn:focus,a.learn:hover {
+    background-color: #1f8dd6;
+    outline: 0;
+}
+.track {
+    padding: 5em 0;
+	border-top: 1px solid rgba(236, 236, 236, 0.9);
+    border-bottom: 1px solid rgba(236, 236, 236, 0.9);
+}
+.track h3 {
+    font-size: 2em;
+    font-weight: 700;
+    color: #34AD00;
+}
+.track p {
+    font-size: 1.2em;
+    line-height: 1.8em;
+    width: 55%;
+    margin: 1.5em 0;
+    color: #999;
+}
+.track-right {
+    text-align: center;
+}
+i.fa.fa-map-marker {
+    font-size: 3em;
+    color: #34ad00;
+}
+.rup-left a {
+    display: inline-block;
+}
+.track-right a {
+    display: inline-block;
+}
+/*-- /track --*/
