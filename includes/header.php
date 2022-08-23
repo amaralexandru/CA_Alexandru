@@ -39,8 +39,6 @@
 			<a href="index.php"><span>Creative Travel</span></a>	
 		</div>
 		<div class="lock fadeInDown animated" data-wow-delay=".5s"> 
-			<li><i class="fa fa-lock"></i></li>
-            <li><div class="securetxt">SAFE &amp; SECURE </div></li>
 			<div class="clearfix"></div>
 		</div>
 		<div class="clearfix"></div>
@@ -66,7 +64,7 @@
                 <nav class="cl-effect-1">
 						<ul class="nav navbar-nav">
 							<li><a href="index.php">Home</a></li>
-							<li><a href="page.php?type=aboutus">About</a></li>
+							<li><a href="about.php">About</a></li>
 								<li><a href="package-list.php">Tour Packages</a></li>
 								<li><a href="contact.php">Contact Us</a></li>
 								<?php if($_SESSION['login'])

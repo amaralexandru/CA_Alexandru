@@ -68,7 +68,7 @@ error:function (){}
 
 				<input type="text" value="" placeholder="Full Name" name="fname" autocomplete="off" required="">
 				<input type="text" value="" placeholder="Mobile number" maxlength="10" name="mobilenumber" autocomplete="off" required="">
-		<input type="text" value="" placeholder="Email id" name="email" id="email" onBlur="checkAvailability()" autocomplete="off"  required="">	
+		<input type="text" value="" placeholder="Email adress" name="email" id="email" onBlur="checkAvailability()" autocomplete="off"  required="">	
 		 <span id="user-availability-status" style="font-size:12px;"></span> 
 	<input type="password" value="" placeholder="Password" name="password" required="">	
 													<input type="submit" name="submit" id="submit" value="CREATE ACCOUNT">

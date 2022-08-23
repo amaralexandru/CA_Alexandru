@@ -11,7 +11,6 @@
 			<ul>
 				<li><a class="facebook" href="#"><span>Facebook</span></a></li>
 				<li><a class="twitter" href="#"><span>Twitter</span></a></li>
-				<li><a class="flickr" href="#"><span>Flickr</span></a></li>
 				<li><a class="googleplus" href="#"><span>Google+</span></a></li>
 			</ul>
 		</div>
