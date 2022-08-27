@@ -233,7 +233,7 @@ i.fa.fa-columns {
 }
 /*-- /banner --*/
 
-/*-- rupes --*/
+/*-- Offers --*/
 .rup-left {
     float: left;
     width: 24%;
@@ -261,7 +261,7 @@ i.fa.fa-mobile  {
 }
 .rupes h3 {
     font-size: 20px;
-    color: #34ad00;
+    color: #ad0000;
 	 font-weight: 700;
 }
 .rupes h4 {
@@ -273,7 +273,7 @@ i.fa.fa-mobile  {
     color: #000000;
 }
 .rupes h4 a:hover{
-    color:#34ad00;
+    color:#ad0000;
 }
 .rupes p{
     font-size: 15px;
@@ -289,7 +289,7 @@ a.learn{
     text-indent: 0;
     padding: 6px 20px;
     color: #fff;
-    background-color: #34ad00;
+    background-color: #ad0000;
     border: 0;
     border-radius: 2px;
     -webkit-transition: all .2s;
