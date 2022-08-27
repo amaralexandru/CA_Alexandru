@@ -37,7 +37,7 @@ include('includes/config.php');
 </div>
 
 
-<!--- offers ---->
+<!--- Offers ---->
 <div class="container">
 	<div class="rupes">
 		<div class="col-md-4 rupes-left wow fadeInDown animated animated" data-wow-delay=".5s" style="visibility: visible; animation-delay: 0.5s; animation-name: fadeInDown;">
@@ -84,11 +84,7 @@ include('includes/config.php');
 <!---holiday---->
 <div class="container">
 	<div class="holiday">
-	
 
-
-
-	
 	<h3>Package List</h3>
 
 					

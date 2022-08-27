@@ -108,7 +108,7 @@ foreach($results as $result)
 </p>
 
 <p style="width: 350px;">
-<b>Email adress</b>
+<b>Email address</b>
 	<input type="email" class="form-control" name="email" value="<?php echo htmlentities($result->EmailId);?>" id="email" readonly>
 			</p>
 <p style="width: 350px;">
