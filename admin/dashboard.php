@@ -39,7 +39,7 @@ else{
 <?php include('includes/header.php');?>
 <!--header end here-->
 		<ol class="breadcrumb">
-                <li class="breadcrumb-item"><a href="index.html">Home</a> <i class="fa fa-angle-right"></i></li>
+                <li class="breadcrumb-item"><a href="index.php">Home</a> <i class="fa fa-angle-right"></i></li>
             </ol>
 <!--four-grids here-->
 		<div class="four-grids">
@@ -107,7 +107,7 @@ $cnt2=$query2->rowCount();
 								<i class="glyphicon glyphicon-briefcase" aria-hidden="true"></i>
 							</div>
 							<div class="four-text">
-								<h3>Toatal packages</h3>
+								<h3>Total packages</h3>
 																	<?php $sql3 = "SELECT PackageId from tbltourpackages";
 $query3= $dbh -> prepare($sql3);
 $query3->execute();

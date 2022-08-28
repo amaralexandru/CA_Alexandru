@@ -468,7 +468,7 @@ i.fa.fa-truck,i.fa.fa-user,i.fa.fa-ticket {
 	width:51%;
 }
 .login-right h3{
-    color: #4CB320;
+    color: #034ab4;
     font-weight: normal;
     font-size: 17px;
 
@@ -494,17 +494,17 @@ i.fa.fa-truck,i.fa.fa-user,i.fa.fa-ticket {
 	margin:20px 0;
 }
 .login-right h4 a{
-	color:#4CB320;
+	color:#034ab4;
 	text-decoration:none;
 }
 .login-right h4 a:hover{
 	color:#A9A8A8;
 }
 .login-grids p a {
-	color:#4CB320;
+	color:#034ab4;
 }
 .login-right input[type="submit"] {
-  background:#4CB320;
+  background:#034ab4;
   color: #fff;
   font-size: 20px;
   border: none;
@@ -588,7 +588,7 @@ i.fa.fa-truck,i.fa.fa-user,i.fa.fa-ticket {
 .privacy p {
     font-size: 1em;
     line-height: 1.8em;
-    color: #999;
+    color: rgb(24, 4, 4);
     margin: 1em 0;
 }
 .privacy h4 {

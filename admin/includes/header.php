@@ -1,6 +1,6 @@
 <div class="header-main">
 					<div class="logo-w3-agile">
-								<h1><a href="dashboard.php">Creative Ytavel Management System</a></h1>
+								<h1><a href="dashboard.php">Creative Travel Management System</a></h1>
 							</div>
 				
 						
@@ -12,7 +12,7 @@
 												<span class="prfil-img"><img src="images/User-icon.png" alt=""> </span> 
 												<div class="user-name">
 													<p>Welcome</p>
-													<span>Administrator</span>
+													<span>Admin</span>
 												</div>
 												<i class="fa fa-angle-down"></i>
 												<i class="fa fa-angle-up"></i>
